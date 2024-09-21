@@ -9,9 +9,10 @@ Environmental Impact: By promoting energy-efficient travel options, we contribut
 Public Transport Management: Assists public transport agencies in effectively communicating with customers, offering accurate arrival times through mobile devices and passenger information displays.
 
 # Technologies Used:
-Angular (without a backend)
-HTML5
-CSS3
+- Angular (without a backend)
+- HTML5
+- CSS3
+
 
 # Installation:
 To run the project locally, clone the repository and open the index.html file in your browser.
